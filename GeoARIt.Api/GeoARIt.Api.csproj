@@ -6,21 +6,24 @@
     <ApplicationIcon />
     <StartupObject />
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Description>Client Library for https://geoar.it/api-docs/index.html restful enpoints (Geospatial augmented reality platform)</Description>
+    <Description>Client Library for https://geoar.it/api-docs/index.html restful enpoints (Geospatial augmented reality platform)
+There is also a sample C# web client] at https://github.com/ianfoster99/GeoARIt.Client 
+#GeoarIt
+</Description>
     <PackageProjectUrl>https://geoAR.it</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/ianfoster99/GeoArIt.Io</RepositoryUrl>
+    <RepositoryUrl>https://github.com/ianfoster99/GeoArIt.Api</RepositoryUrl>
     <PackageId>GeoARIt.Api</PackageId>
     <PackageTags>geoarit ar geospatial augmented reality</PackageTags>
     <PackageLicenseUrl></PackageLicenseUrl>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <PackageIconUrl>https://geoar.it/images/GeoArIt30x30.png</PackageIconUrl>
-    <Version>1.0.2</Version>
-    <AssemblyVersion>1.0.2.0</AssemblyVersion>
-    <FileVersion>1.0.2.0</FileVersion>
+    <Version>1.0.4</Version>
+    <AssemblyVersion>1.0.4.0</AssemblyVersion>
+    <FileVersion>1.0.4.0</FileVersion>
     <Authors>Ian Foster</Authors>
     <Company>Ian Foster</Company>
     <Copyright />
-    <PackageReleaseNotes>Namespace changes</PackageReleaseNotes>
+    <PackageReleaseNotes>Added GitHub GeoARIt.Client to description</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
