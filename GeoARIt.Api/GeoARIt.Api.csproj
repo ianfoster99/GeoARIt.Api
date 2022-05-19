@@ -34,7 +34,7 @@ There is also a sample C# web client] at https://github.com/ianfoster99/GeoARIt.
 
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
-    <PackageReference Include="RestSharp" Version="106.6.10" />
+    <PackageReference Include="RestSharp" Version="106.12.0" />
   </ItemGroup>
 
 </Project>
